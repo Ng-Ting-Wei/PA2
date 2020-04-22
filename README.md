@@ -1,2 +1,2 @@
 # PA2
-Piratical Assignment 2
+Practical Assignment 2
